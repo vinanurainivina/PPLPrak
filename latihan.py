@@ -1,0 +1,1 @@
+# latihan menambahkan file baru ke repository Git
